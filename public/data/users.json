@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Ada Lovelace", "role": "Mathematician", "country": "UK" },
+  { "id": 2, "name": "Grace Hopper", "role": "Computer Scientist", "country": "USA" },
+  { "id": 3, "name": "Alan Turing", "role": "Mathematician", "country": "UK" },
+  { "id": 4, "name": "Katherine Johnson", "role": "Mathematician", "country": "USA" },
+  { "id": 5, "name": "Linus Torvalds", "role": "Engineer", "country": "Finland" },
+  { "id": 6, "name": "Margaret Hamilton", "role": "Engineer", "country": "USA" },
+  { "id": 7, "name": "Tim Berners-Lee", "role": "Computer Scientist", "country": "UK" },
+  { "id": 8, "name": "Radia Perlman", "role": "Engineer", "country": "USA" },
+  { "id": 9, "name": "Edsger Dijkstra", "role": "Computer Scientist", "country": "Netherlands" },
+  { "id": 10, "name": "Barbara Liskov", "role": "Computer Scientist", "country": "USA" },
+  { "id": 11, "name": "Guido van Rossum", "role": "Engineer", "country": "Netherlands" },
+  { "id": 12, "name": "Hedy Lamarr", "role": "Inventor", "country": "Austria" }
+]

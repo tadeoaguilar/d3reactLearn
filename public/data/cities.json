@@ -1,0 +1,20 @@
+[
+  { "city": "Tokyo", "country": "Japan", "population": 37.4, "lat": 35.68, "lon": 139.69 },
+  { "city": "Delhi", "country": "India", "population": 31.2, "lat": 28.61, "lon": 77.21 },
+  { "city": "Shanghai", "country": "China", "population": 27.8, "lat": 31.23, "lon": 121.47 },
+  { "city": "São Paulo", "country": "Brazil", "population": 22.2, "lat": -23.55, "lon": -46.63 },
+  { "city": "Mexico City", "country": "Mexico", "population": 21.9, "lat": 19.43, "lon": -99.13 },
+  { "city": "Cairo", "country": "Egypt", "population": 21.3, "lat": 30.04, "lon": 31.24 },
+  { "city": "Mumbai", "country": "India", "population": 20.7, "lat": 19.08, "lon": 72.88 },
+  { "city": "Beijing", "country": "China", "population": 20.5, "lat": 39.9, "lon": 116.41 },
+  { "city": "Dhaka", "country": "Bangladesh", "population": 21.7, "lat": 23.81, "lon": 90.41 },
+  { "city": "Osaka", "country": "Japan", "population": 19.1, "lat": 34.69, "lon": 135.5 },
+  { "city": "New York", "country": "USA", "population": 18.8, "lat": 40.71, "lon": -74.01 },
+  { "city": "Karachi", "country": "Pakistan", "population": 16.5, "lat": 24.86, "lon": 67.0 },
+  { "city": "Buenos Aires", "country": "Argentina", "population": 15.2, "lat": -34.6, "lon": -58.38 },
+  { "city": "Istanbul", "country": "Turkey", "population": 15.4, "lat": 41.01, "lon": 28.98 },
+  { "city": "Lagos", "country": "Nigeria", "population": 14.9, "lat": 6.52, "lon": 3.38 },
+  { "city": "Paris", "country": "France", "population": 11.1, "lat": 48.86, "lon": 2.35 },
+  { "city": "London", "country": "UK", "population": 9.4, "lat": 51.51, "lon": -0.13 },
+  { "city": "Sydney", "country": "Australia", "population": 5.4, "lat": -33.87, "lon": 151.21 }
+]
